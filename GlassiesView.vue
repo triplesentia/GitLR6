@@ -57,7 +57,7 @@
     }
   }
   
-  /* Адаптация для мобильных */
+  /* Адаптация */
   @media (max-width: 768px) {
     .coming-soon-text {
       font-size: 3rem;
