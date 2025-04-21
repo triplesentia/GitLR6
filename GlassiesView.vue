@@ -32,7 +32,7 @@
   
   .coming-soon-text {
     font-size: 5rem;
-    font-weight: 700;
+    font-weight: 7000;
     color: #2c3e50;
     margin-bottom: 1rem;
     text-transform: uppercase;
