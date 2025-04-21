@@ -42,7 +42,7 @@
   .subtext {
     font-size: 1.5rem;
     color: #7f8c8d;
-    margin-top: 0;
+    margin-top: 10;
   }
   
   /* Анимация появления */
