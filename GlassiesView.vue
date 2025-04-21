@@ -64,7 +64,7 @@
     }
     
     .subtext {
-      font-size: 1.2rem;
+      font-size: 12rem;
     }
   }
   </style>
