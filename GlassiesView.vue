@@ -18,7 +18,7 @@
   
   <style scoped>
   .glassies-page {
-    display: flex;
+    display: line;
     justify-content: center;
     align-items: center;
     height: calc(100vh - 60px); /* Учитываем высоту */
