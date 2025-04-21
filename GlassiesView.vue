@@ -27,7 +27,7 @@
   }
   
   .coming-soon-container {
-    animation: fadeIn 0.8s ease-in-out;
+    animation: fadeIn 1s ease-in-out;
   }
   
   .coming-soon-text {
