@@ -21,7 +21,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    height: calc(100vh - 60px); /* Учитываем высоту навбара */
+    height: calc(150vh - 60px); /* Учитываем высоту навбара */
     background-color: #f8f9fa;
     text-align: center;
   }
