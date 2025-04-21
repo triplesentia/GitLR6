@@ -11,7 +11,7 @@
   export default {
     name: 'GlassiesPagee',
     metaInfo: {
-      title: 'Стекляши - Glassync'
+      title: 'Стекляши - Glasssync'
     }
   }
   </script>
