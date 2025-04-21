@@ -46,7 +46,7 @@
   }
   
   /* Анимация появления */
-  @keyframes fadeIn {
+  @media fadeIn {
     from {
       opacity: 0;
       transform: translateY(20px);
