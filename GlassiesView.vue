@@ -9,7 +9,7 @@
   
   <script>
   export default {
-    name: 'GlassiesPage',
+    name: 'GlassiesPagee',
     metaInfo: {
       title: 'Стекляши - Glassync'
     }
