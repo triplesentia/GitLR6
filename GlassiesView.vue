@@ -2,7 +2,7 @@
     <div class="glassies-page">
       <div class="coming-soon-container">
         <h1 class="coming-soon-text">Coming Soon</h1>
-        <p class="subtext">Мы работаем над этим разделом</p>
+        <p class="text">Мы работаем над этим разделом</p>
       </div>
     </div>
   </template>
